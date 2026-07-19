@@ -61,7 +61,7 @@ Before running the project, install:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/lamyababrahem/responsive-ai-document-chatbot-using-rag-ollama-vectorstore-langchain
 ```
 
 ### 2. Open the project folder
